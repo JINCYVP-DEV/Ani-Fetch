@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ani Fetch</string>
+    <string name="text_top_anime">Top Anime</string>
+    <string name="text_score">Score</string>
+    <string name="text_movie">Movies</string>
+    <string name="text_tv">Tv</string>
+    <string name="text_episodes">Episodes : </string>
+    <string name="text_watch_instantly">Watch Instantly</string>
+    <string name="text_duration">Duration:</string>
+</resources>
